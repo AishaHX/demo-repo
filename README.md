@@ -6,4 +6,4 @@ learning how to use git.
 
 ## Local dev
 
-1.open index.html in your browser
+1.open index.html in your browser.
